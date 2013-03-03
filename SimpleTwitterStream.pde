@@ -1,8 +1,13 @@
 /*
-SimpleTwitterStreaming
- Developed by: Michael Zick Doherty
- 2011-10-18
- http://neufuture.com
+Based on the original SimpleTwitterStreaming
+Developed by: Michael Zick Doherty on 2011-10-18
+ http://neufuture.
+ 
+ Adapted for use by Siobhán Schnittger. This 
+ displays tweets containing the keyword 'instagram'
+ in a tiled format. 
+ 
+ http://mixedmedia.ie
  
  
  */
